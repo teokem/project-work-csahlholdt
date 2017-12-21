@@ -8,3 +8,6 @@ __pycache__/
 
 # Jupyter Notebook autosaves
 .ipynb_checkpoints/
+
+# All figures
+figures/*.pdf
