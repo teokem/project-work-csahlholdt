@@ -1,6 +1,11 @@
 # Stellar radii, masses, and surface gravities from detailed asteroseismic analysis
 #
-# KIC ID    rad         rad_unc     mass        mass_unc	logg		logg_unc
+# Columns (the ones left out contain the uncertainties on the previous parameter):
+# 0 - KIC ID
+# 1 - Radius (solar units)
+# 3 - Mass (solar units)
+# 5 - Surface gravity (log10(g/cm^3))
+#################################################################################
  1435467	1.699e+00	2.379e-02	1.350e+00	4.038e-02	4.109e+00	8.965e-03
  2837475	1.623e+00	2.283e-02	1.382e+00	4.500e-02	4.159e+00	1.184e-02
  3425851	1.365e+00	1.961e-02	1.212e+00	4.870e-02	4.251e+00	1.015e-02

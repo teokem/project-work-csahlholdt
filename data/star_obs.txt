@@ -2,11 +2,11 @@
 #
 # Columns (the ones left out contain the uncertainties on the previous parameter):
 # 0 - KIC ID
-# 1 - Effective temperature
-# 3 - Metallicity
-# 5 - Large frequency separation (dnu)
-# 7 - Frequency of maximum power (nu_max)
-# 9 - Angular diameter
+# 1 - Effective temperature (K)
+# 3 - Metallicity ([Fe/H])
+# 5 - Large frequency separation (dnu) (microHz)
+# 7 - Frequency of maximum power (nu_max) (microHz)
+# 9 - Angular diameter (arcseconds)
 ############################################################################################
  1435467	6382	 80	 0.01	0.10	 70.331	0.219	1405.99	  8.07	1.15e-01	3.63e-03
  2837475	6675	 81	 0.01	0.10	 75.759	0.197	1560.83	  9.69	1.27e-01	5.46e-03

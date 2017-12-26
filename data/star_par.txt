@@ -1,6 +1,9 @@
- # Stellar Parallaxes from Gaia mission
- #
- # KIC ID	plx		plx_unc
+# Stellar Parallaxes from Gaia mission
+#
+# Columns (the ones left out contain the uncertainties on the previous parameter):
+# 0 - KIC ID
+# 1 - Gaia parallax (mas)
+########################
  1435467	 5.60	0.25
  2837475	 7.94	0.26
  3425851	 3.94	0.24
